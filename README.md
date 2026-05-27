@@ -1,12 +1,8 @@
-##
-
-<!--
-**sadiegberg/sadiegberg** repository
-# Hi, I'm Sadie
+# Hi, I'm Sadie 👋
 Data Analyst | Python | SQL | Jupyter
 
 ## Projects
-- [Lime Scooter Analysis]([https://github.com/sadiegberg/Lime-Scooter-Analysis]) — Python, Pandas, Matplotlib
+- [Lime Scooter Analysis](https://github.com/sadiegberg/Lime-Scooter-Analysis) — Python, Pandas, Matplotlib
 - [Israel Transit Analysis](https://github.com/sadiegberg/israel-transit-analysis) — Python, Pandas, Jupyter
 
 ## Tools & Skills
