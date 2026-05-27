@@ -1,4 +1,4 @@
-# Hi, I'm Sadie 👋
+# Hi, I'm Sadie
 Data Analyst | Python | SQL | Jupyter
 
 ## Projects
