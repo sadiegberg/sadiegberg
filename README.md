@@ -1,4 +1,4 @@
-# Hi, I'm Sadie
+# Sadie Greenberg
 Data Analyst | Python | SQL | Jupyter
 
 ## Projects
