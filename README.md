@@ -1,8 +1,6 @@
 # Sadie Greenberg
-University of Texas at Austin Alum
-
-Data Analyst | Python | SQL | Jupyter | Tableau
-
+University of Texas at Austin Alum<br/> 
+Data Analyst | Python | SQL | Jupyter | Tableau<br/> 
 Currently educating myself on urbanism, consumerism, mobility, and materialism
 ## Projects
 - [Lime Scooter Analysis](https://github.com/sadiegberg/Lime-Scooter-Analysis) — Python, Pandas, Matplotlib
