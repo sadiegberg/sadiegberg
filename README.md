@@ -3,10 +3,10 @@ University of Texas at Austin Alum<br/>
 Data Analyst | Python | SQL | Jupyter | Tableau<br/> 
 Currently educating myself on urbanism, consumerism, mobility, and materialism
 ## Projects
+- [Independent Travel Project]([https://github.com/sadiegberg/independent-travel-project)) — Excel, SQL (SQLite)
 - [Lime Scooter Analysis](https://github.com/sadiegberg/Lime-Scooter-Analysis) — Python, Pandas, Matplotlib
 - [Israel Transit Analysis](https://github.com/sadiegberg/israel-transit-analysis) — Python, Pandas, Jupyter
 - [Fishwife Brand & Growth Analysis](https://github.com/sadiegberg/fishwife-analysis) — Python, Pandas, Matplotlib, Seaborn
-- [Transit Costs and Access: Armenia and Central Asia](https://github.com/sadiegberg/transit-affordability-analysis) — Excel, SQL (SQLite)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/sgbrg) | [Email](mailto:sadieagberg@gmail.com)
